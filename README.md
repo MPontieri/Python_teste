@@ -1,2 +1,2 @@
-# Python_teste
-Primeiro projeto em python
+#Projeto em Python
+Primeiro projeto em python feito em colaboração.
